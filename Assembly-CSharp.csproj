@@ -66,11 +66,22 @@
     <Compile Include="Assets\Script\QT_Events.cs" />
     <Compile Include="Assets\Script\PlaySoundOnStart.cs" />
     <Compile Include="Assets\Free Low Poly Nature Kit\Scripts\Player.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\AssetStoreOriginals\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\Slide\BRGlassDoor.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\Windows\opencloseWindowApt.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\SE Basic Assets\Scripts and Animations\Drawer\Z Axis\Drawer_Pull_Z.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\Slide\opencloseSlide.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\SE Basic Assets\Scripts and Animations\Windows\opencloseWindow1.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\SE Basic Assets\Scripts and Animations\Windows\opencloseWindow.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\Closet\ClosetopencloseDoor.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\Z Axis -1\Drawer_Pull_Zopp.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\TableFlip\TableFlipR.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\SE Basic Assets\Scripts and Animations\Drawer\X Axis\Drawer_Pull_X.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\OvenOpen\OvenFlip.cs" />
+    <Compile Include="Assets\ScenePrefabs&amp;Assests\Brick Project Studio\Apartment Kit\Scripts &amp; Animation\TableFlip\TableFlipL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free Low Poly Nature Kit\Shaders\Standard No Cull.shader" />
-    <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
-    <None Include="Assets\Fantasy Skybox FREE\ReleaseNotes.txt" />
     <None Include="Assets\HolyShift\Shaders\FXWaterLowpoly.shader" />
     <None Include="Assets\HolyShift\readme.txt" />
     <None Include="Assets\Free Low Poly Nature Kit\Shaders\Color Skybox.shader" />

@@ -1,0 +1,34 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 29.10.2017 12:45:52
+
+newmtl st_textile
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8588 0.5569 0.4078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\textile\LaureYeL.jpg
+	map_Kd D:\New folder 2\textile\LaureYeL.jpg
+	map_bump -bm 0.2500 D:\New folder 2\textile\LaureYeL.jpg
+	bump -bm 0.2500 D:\New folder 2\textile\LaureYeL.jpg
+
+newmtl broun
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6784 0.5216 0.4353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\140g.jpg
+	map_Kd D:\New folder 2\140g.jpg
+	map_bump -bm 0.3000 D:\New folder 2\140g.jpg
+	bump -bm 0.3000 D:\New folder 2\140g.jpg
