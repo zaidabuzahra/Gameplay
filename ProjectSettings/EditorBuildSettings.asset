@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ForestScene_Sunrise.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+  - enabled: 0
+    path: Assets/Scenes/RetryMenu.unity
     guid: 0cfe4b1beb935a143ba6c201b5ce5500
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene_Day.unity
+    guid: 903af067f96354b44a94baa0ac6392b8
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: bde98ac1e0abef9448513327a7708d04
   m_configObjects: {}

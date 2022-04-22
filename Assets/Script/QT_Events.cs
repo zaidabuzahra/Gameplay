@@ -343,7 +343,7 @@ public class QT_Events : MonoBehaviour
     {
         yield return new WaitForSeconds(buttonTimer);
 
-        ShrinkCircle += 0.007f;
+        ShrinkCircle += Time.deltaTime;
         if (bIsPressing)
         {
             ShrinkingImage.GetComponent<Image>().transform.localScale = new Vector3(Timer - ShrinkCircle, Timer - ShrinkCircle, 0);
